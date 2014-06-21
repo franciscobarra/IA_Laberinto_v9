@@ -2,6 +2,7 @@ package Busqueda;
 
 import java.util.Objects;
 
+// HOLA:
 public class Estado{
     
     public int x, y;
